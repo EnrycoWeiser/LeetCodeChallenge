@@ -1,3 +1,5 @@
+//date: 26/02/24
+
 class Solution {
     public int pivotInteger(int n) {
         int somma_total = (n*(n+1))/2;
